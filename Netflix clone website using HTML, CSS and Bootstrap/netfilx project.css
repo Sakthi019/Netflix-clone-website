@@ -1,0 +1,115 @@
+body{
+    background-color: black;
+}
+.bg-img{
+    background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/5523db5a-e2b2-497f-a88b-61f175c3dbad/eb90437e-a876-47c3-a138-ca27772a4d2a/IN-en-20230306-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    height: auto;
+}
+hr{
+    border: 3px solid grey;
+}
+.img1{
+    width: 170px;
+    height: 40px;
+    margin-left: 40px;
+}
+.rgt{
+    float: right !important;
+}
+.lft{
+    float: left !important;
+}
+.but1{
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    border-style: none;
+    width: 80px;
+    height: 35px;
+}
+.opt{
+    background-color: transparent;
+    width: 80px;
+    height: 35px;
+    color: white;
+    border-color: white;
+    outline-color:transparent;
+}
+h1{
+    font-size: 4rem;
+}
+h2{
+    font-size:3rem;
+}
+.con1{
+    display: grid;
+    place-items: center;
+    margin-top: 11%;
+    margin-bottom: 8%;
+}
+.con2{
+    display: grid;
+    place-items: center;
+}
+.search{
+    width: 450px;
+    height: 60px;
+    outline: none;
+    background-color:rgb(46, 45, 45);
+    filter: opacity(80%);
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+}
+.but2{
+    width: 200px;
+    height: 60px;
+    background-color: red;
+    color: white;
+    border: none;
+    font-size: 1.5rem;
+    border-radius: 10px;
+}
+.cont{
+    display: grid;
+    place-items: center;
+    width: 40%;
+}
+.siz{
+    width: 60%;
+    margin: 0 auto;
+}
+.q1{
+    background-color: grey;
+    width: 400px;
+    height: 70px;
+    color: white;
+    margin-bottom: 10px;
+}
+.sez{
+    outline: none;
+    border: none;
+    background-color: lightgrey;
+    width: 80%;
+    height: 5vh;
+    padding: 10px;
+    border-radius: 5px;
+}
+.but0{
+    background-color: red;
+    width: 80%;
+    height: 5vh;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.bg-clr{
+    background-color:  rgb(15, 15, 15);
+    filter: opacity(90%);
+}
+li{
+    list-style-type: none;
+}
